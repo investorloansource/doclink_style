@@ -3,8 +3,8 @@ body{font-family:'Khula',Arial,sans-serif;}
 #fileanchor{position:relative;overflow:hidden;display:block;}
 #file {top:-100px; left:-100px; position:absolute;}
 
-#uploadlabel{background:url('MA_upload.png') #FF0000 no-repeat left center; background-position-x:12px; border-radius:5px; padding:7px 20px 7px 35px; font-size: 12px; color:#FF0000; display: inline-block; cursor: pointer;}
-#uploadlabel:hover {background-color: #FF0000;}
+#uploadlabel{background:url('MA_upload.png') #21B01D no-repeat left center; background-position-x:12px; border-radius:5px; padding:7px 20px 7px 35px; font-size: 12px; color:#FFFFFF; display: inline-block; cursor: pointer;}
+#uploadlabel:hover {background-color: #28D723;}
 
 
 #dropzone{  border: 2px dashed #dae1ea; }
